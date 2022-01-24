@@ -1,0 +1,18 @@
+- [ ] What’s the purpose of this type choice?
+- - [ ] What do we want our audience to feel when they see / read the type?
+- - [ ] Is there anything we don’t we want them to feel?
+- [ ] Is this type choice reliable?
+- - [ ] Is the font well-spaced?
+- - [ ] Does the design contain legible details?
+-  -[ ] Does the font have good multi-language support?
+- - [ ] Are there alternate characters (and other OpenType features) present? [This could potentially move after the weights bit.] *
+- [ ] What’s in this font?
+- - [ ] Does the typeface (and fonts) offer a regular, bold, italic, and bold italic?
+- - [ ] Does the typeface (and fonts) offer additional weights & styles (or grades)? *
+- - [ ] Does the typeface (and fonts) offer multiple widths? *
+- - [ ] Does the typeface (and fonts) offer different optical sizes? *
+- - [ ] Are we going to be using this at small / body sizes, or large / display sizes, or both?
+- [ ] Licensing
+- - [ ] Do I have, or does my client have, the appropriate license(s) for the fonts intended use?
+- [ ] Pairing *
+- - [ ] If we anticipate the need for more than one typeface, are there any considerations for “pairability”? Varying x-heights, different moods, etc. Rinse and repeat list for secondary typeface.
