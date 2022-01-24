@@ -1,18 +1,18 @@
-- [ ] What’s the purpose of this type choice?
-- - [ ] What do we want our audience to feel when they see / read the type?
-- - [ ] Is there anything we don’t we want them to feel?
-- [ ] Is this type choice reliable?
-- - [ ] Is the font well-spaced?
-- - [ ] Does the design contain legible details?
--  -[ ] Does the font have good multi-language support?
-- - [ ] Are there alternate characters (and other OpenType features) present? [This could potentially move after the weights bit.] *
-- [ ] What’s in this font?
-- - [ ] Does the typeface (and fonts) offer a regular, bold, italic, and bold italic?
-- - [ ] Does the typeface (and fonts) offer additional weights & styles (or grades)? *
-- - [ ] Does the typeface (and fonts) offer multiple widths? *
-- - [ ] Does the typeface (and fonts) offer different optical sizes? *
-- - [ ] Are we going to be using this at small / body sizes, or large / display sizes, or both?
-- [ ] Licensing
-- - [ ] Do I have, or does my client have, the appropriate license(s) for the fonts intended use?
-- [ ] Pairing *
-- - [ ] If we anticipate the need for more than one typeface, are there any considerations for “pairability”? Varying x-heights, different moods, etc. Rinse and repeat list for secondary typeface.
+- The typeface suits the purpose of the project.
+  - Its personality will prompt the appropriate emotional response(s) from our audience.
+  - Its personality won’t accidentally convey a meaning that contradicts our message.
+  - Its design is visually suitable for the context (e.g., no display faces for body use, or monospaced faces only for coding). 
+- The typeface’s design is robust.
+  - It contains legible details.
+  - It has good multi-language support.
+  - It has at least the 4 basic weights and styles of regular, bold, italic, and bold italic.
+  - There are alternate glyphs present in the design.
+  - [EXTRA] It has additional weights and styles (or grades).
+  - [EXTRA] It has multiple widths.
+  - [EXTRA] It has different optical sizes.
+- The font files are reliable.
+  - All of the design features checked above are actually included in the font files being used.
+  - The fonts are well-spaced.
+- The fonts are usable in the context(s) required.
+  - If serving as a secondary typeface to a primary choice, there is a suitable balance between similarity and distinction.
+  - We have, or our client has, the appropriate font license(s).
