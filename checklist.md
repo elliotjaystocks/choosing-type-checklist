@@ -14,5 +14,5 @@
 - - All of the design features checked above are actually included in the font files being used.
 - - The fonts are well-spaced.
 - The fonts are usable in the context(s) required.
-- - If serving as a secondary typeface to a primary choice, there is a suitable balance between distinction and harmony.
+- - If serving as a secondary typeface to a primary choice, there’s a suitable balance between distinction and harmony.
 - - We have, or our client has, the appropriate font license(s).
