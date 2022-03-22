@@ -1,18 +1,17 @@
-- The typeface suits the purpose of the project.
-- - Its personality will prompt the appropriate emotional response(s) from our audience.
-- - Its personality won’t accidentally convey a meaning that contradicts our message.
-- - Its design is visually suitable for the context. 
-- The typeface’s design is robust.
-- - It has good multi-language support.
-- - It contains legible details.
-- - It has at least the 4 basic weights and styles of regular, bold, italic, and bold italic.
-- - [EXTRA] There are alternate glyphs present in the design.
-- - [EXTRA] It has additional weights and styles (or grades).
-- - [EXTRA] It has multiple widths.
-- - [EXTRA] It has different optical sizes.
-- The font files are reliable.
-- - All of the design features checked above are actually included in the font files being used.
-- - The fonts are well-spaced.
-- The fonts are usable in the context(s) required.
-- - If serving as a secondary typeface to a primary choice, there’s a suitable balance between distinction and harmony.
-- - We have, or our client has, the appropriate font license(s).
+- The typeface suits the purpose of the project
+-- Its personality will prompt the appropriate emotional response(s) from our audience
+-- Its design fits the intended use
+- The typeface’s design is comprehensive
+-- It has enough multi-language support
+-- It contains legible details
+-- It has at least the basic weights and styles
+-- Even better: It has alternate glyphs
+-- Even better: It has additional weights and styles (or grades)
+-- Even better: It has multiple widths
+-- Even better: It has different optical sizes
+- The font files are reliable
+-- All of the design features checked above are actually included in the font files being used
+-- The fonts are properly spaced
+- The fonts are usable in the situation(s) required
+-- If serving as a secondary typeface to a primary choice, there’s a suitable balance between distinction and harmony
+-- We have, or our client has, the appropriate font license(s)
