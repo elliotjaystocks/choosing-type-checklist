@@ -1,3 +1,11 @@
+# A checklist for choosing type
+
+Whether you’re selecting the first typeface for a new project, pairing a secondary typeface after the primary selection has been made, updating a brand with something new that retains the feel of the original, or anything in between, this checklist can act as a universal guide.
+
+**For more details, see [“A checklist for choosing type”](https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type) on Google Fonts Knowledge.**
+
+- - -
+
 - The typeface suits the purpose of the project
   - Its personality will prompt the appropriate emotional response(s) from our audience
   - Its design fits the intended use
